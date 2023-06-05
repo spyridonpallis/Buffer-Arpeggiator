@@ -1,4 +1,4 @@
-At the moment, in order to use this, you'll have to first initiate each major function.
+At the moment, in order to use this, you'll have to first initiate each major function independently.
 
 ```
 ~tempo.value();
